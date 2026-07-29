@@ -1,6 +1,6 @@
 # 💫 
-Jack of trades master of none,<br>
- but often times better than master of one. .<br>
+<h3> "Jack of trades master of none,<br>
+ but often times better than master of one."<br> </h3>
 
 trying to learn everything
 
