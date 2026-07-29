@@ -1,5 +1,7 @@
-# 💫 About Me:
-Python developer focused on building clean, efficient, and scalable solutions.<br>Passionate about problem-solving, automation, and continuously learning new technologies.<br>
+# 💫 Jack of trades master of none,.<br>
+# but often times better than master of one. .<br>
+
+#trying to learn everything
 
 
 ## 🌐 Socials:
