@@ -1,7 +1,8 @@
-# 💫 Jack of trades master of none,.<br>
-# but often times better than master of one. .<br>
+# 💫 
+Jack of trades master of none,<br>
+ but often times better than master of one. .<br>
 
-#trying to learn everything
+trying to learn everything
 
 
 ## 🌐 Socials:
