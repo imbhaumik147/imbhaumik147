@@ -1,4 +1,4 @@
-<h2>"A jack of all trades, master of none, <br>
+<h2>"Jack of all trades, master of none, <br>
  but oftentimes better than a master of one. </h2>
 
 <h4>trying to learn everything...</h4>
