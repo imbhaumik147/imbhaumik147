@@ -40,4 +40,4 @@
 
 # 📈 Contribution Graph
 
-[![Bhaumik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imbhaumik147&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bhaumik's last 30 days github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imbhaumik147&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
