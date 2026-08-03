@@ -38,12 +38,6 @@ but oftentimes better than a master of one."
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-transparent.vercel.app/api?username=imbhaumik147&show_icons=true&hide_border=true" width="49%" />
-  <img src="https://github-stats-transparent.vercel.app/api/top-langs?username=imbhaumik147&layout=compact&hide_border=true" width="49%" />
-</p>
 
 # 📈 Contribution Graph
 
