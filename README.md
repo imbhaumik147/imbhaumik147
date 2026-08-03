@@ -43,6 +43,3 @@ but oftentimes better than a master of one."
 
 [![Bhaumik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imbhaumik147&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-## 👀 Visitors
-
-[![](https://visitcount.itsvg.in/api?id=imbhaumik147&icon=0&color=0)](https://visitcount.itsvg.in)
