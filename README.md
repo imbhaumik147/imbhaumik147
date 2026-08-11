@@ -41,5 +41,5 @@ but oftentimes better than a master of one."
 
 # 📈 Contribution Graph
 
-[![Bhaumik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imbhaumik147&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Bhaumik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imbhaumik147&theme=react-dark&hide_border=true)](https://github.com/imbhaumik147/github-readme-activity-graph)
 
