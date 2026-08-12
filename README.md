@@ -38,10 +38,13 @@ but oftentimes better than a master of one."
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-## GitHub Stats
-![GitHub Stats](https://raw.githubusercontent.com/imbhaumik147/gitstats/main/stats.svg)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imbhaumik147/gitstats/main/stats.svg" height="200" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/imbhaumik147/gitstats/main/languages.svg" height="200" alt="Top Languages" />
+</p>
 
 # 📈 Contribution Graph
 
 [![Bhaumik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imbhaumik147&theme=react-dark&hide_border=true)](https://github.com/imbhaumik147/github-readme-activity-graph)
-
