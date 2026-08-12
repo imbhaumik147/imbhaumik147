@@ -48,3 +48,6 @@ but oftentimes better than a master of one."
 <p align="center">
   <img src="https://raw.githubusercontent.com/imbhaumik147/gitstats/main/graph.svg?v=2" alt="30 Day Activity Graph" />
 </p>
+
+
+[![Bhaumik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imbhaumik147&theme=react-dark&hide_border=true)](https://github.com/imbhaumik147/github-readme-activity-graph)
