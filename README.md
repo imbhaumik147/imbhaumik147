@@ -46,6 +46,6 @@ but oftentimes better than a master of one."
 
 # 📈 Contribution Graph (Last 30 Days)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imbhaumik147/gitstats/main/graph.svg?v=3" alt="30 Day Activity Graph" />
+  <img src="https://raw.githubusercontent.com/imbhaumik147/gitstats/main/graph.svg?v=3" width="100%" alt="30 Day Activity Graph" />
 </p>
 
