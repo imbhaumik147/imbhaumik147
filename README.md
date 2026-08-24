@@ -5,13 +5,13 @@ but oftentimes better than a master of one."
 
 <h4 align="center">trying to learn everything...</h4>
 
-## 🌐 Socials
+## Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imbhaumik__)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imbhaumik_)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaumikb358@gmail.com)
 
-# 💻 Tech Stack
+# Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
@@ -38,13 +38,13 @@ but oftentimes better than a master of one."
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/imbhaumik147/gitstats/main/stats.svg?v=3" alt="GitHub Stats" />
 </p>
 
-# 📈 Contribution Graph (Last 30 Days)
+#  Contribution Graph (Last 30 Days)
 <p align="center">
   <img src="https://raw.githubusercontent.com/imbhaumik147/gitstats/main/graph.svg?v=3" width="100%" alt="30 Day Activity Graph" />
 </p>
