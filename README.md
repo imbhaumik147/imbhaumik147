@@ -41,11 +41,11 @@ but oftentimes better than a master of one."
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imbhaumik147/gitstats/main/stats.svg?v=3" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/imbhaumik147/gitstats/main/stats.svg?v=4" alt="GitHub Stats" />
 </p>
 
 #  Contribution Graph (Last 30 Days)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imbhaumik147/gitstats/main/graph.svg?v=4" width="100%" alt="30 Day Activity Graph" />
+  <img src="https://raw.githubusercontent.com/imbhaumik147/gitstats/main/graph.svg?v=5" width="100%" alt="30 Day Activity Graph" />
 </p>
 
